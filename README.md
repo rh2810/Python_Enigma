@@ -10,7 +10,7 @@ When the program is run, the user will be prompted to enter one of three inputs:
 
 'q' - quits the program.
 
-Version 4:
+Version 4: Inherits all of the features in Version 3 along with an extra option
 
 't' - A table that displays the characters and their 'secret' code translation.
 
