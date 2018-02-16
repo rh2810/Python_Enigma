@@ -37,22 +37,37 @@ Y = 60; Z = 61; ! = 62; " = 63; # = 64; $ = 65;
 '\n' = 96 = 97;  = 98;  = 99; }
  
 Enter 'e' to encrypt, 'd' to decrypt, 't' to display table, or 'q' to quit:
+
 Input: e
+
   What's the message?:
+  
 Input: Hello!
+
 Output: 
+
      Original message: Hello!
+     
      Encrypted message: 431421212462
 
 Enter 'e' to encrypt, 'd' to decrypt, 't' to display table, or 'q' to quit:
+
 Input: d
+
    What's the message?:
+   
 Input: 431421212462
+
 Output:
+
      Original message: 431421212462
+     
      Decrypted message: Hello!
 
 Enter 'e' to encrypt, 'd' to decrypt, 't' to display table, or 'q' to quit:
+
 Input: q
+
 Output: Process finished with exit code 0
+
 *Program ends*
