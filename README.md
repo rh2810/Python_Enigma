@@ -17,8 +17,12 @@ Version 4: Inherits all of the features in Version 3 along with an extra option
 Examples:
 
 Enter 'e' to encrypt, 'd' to decrypt, 't' to display table, or 'q' to quit:
+
 Input: t
-Output: {0 = 00; 1 = 01; 2 = 02; 3 = 03; 4 = 04; 5 = 05; 
+
+Output: 
+
+{0 = 00; 1 = 01; 2 = 02; 3 = 03; 4 = 04; 5 = 05; 
 6 = 06; 7 = 07; 8 = 08; 9 = 09; a = 10; b = 11; 
 c = 12; d = 13; e = 14; f = 15; g = 16; h = 17; 
 i = 18; j = 19; k = 20; l = 21; m = 22; n = 23; 
