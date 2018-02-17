@@ -1,6 +1,5 @@
 # Python_Enigma
-Version 3:
-This program encodes characters into numbers, similar to a Caesar Cipher.
+**Version 3:** This program encodes characters into numbers, similar to a Caesar Cipher.
 
 When the program is run, the user will be prompted to enter one of three inputs: 'e', 'd', or 'q'.
 
@@ -10,11 +9,11 @@ When the program is run, the user will be prompted to enter one of three inputs:
 
 'q' - quits the program.
 
-Version 4: Inherits all of the features in Version 3 along with an extra option
+**Version 4:** Inherits all of the features in Version 3 along with an extra option
 
 't' - A table that displays the characters and their 'secret' code translation.
 
-Examples:
+**Examples:**
 
 Enter 'e' to encrypt, 'd' to decrypt, 't' to display table, or 'q' to quit:
 
