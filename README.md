@@ -18,7 +18,7 @@ Examples:
 
 Enter 'e' to encrypt, 'd' to decrypt, 't' to display table, or 'q' to quit:
 
-Input: t
+Input: __t__
 
 __Output__: 
 
@@ -58,11 +58,11 @@ Y = 60; Z = 61; ! = 62; " = 63; # = 64; $ = 65;
  
 Enter 'e' to encrypt, 'd' to decrypt, 't' to display table, or 'q' to quit:
 
-Input: e
+Input: __e__
 
   What's the message?:
   
-Input: Hello!
+Input: __Hello!__
 
 __Output__: 
 
@@ -72,11 +72,11 @@ __Output__:
 
 Enter 'e' to encrypt, 'd' to decrypt, 't' to display table, or 'q' to quit:
 
-Input: d
+Input: __d__
 
    What's the message?:
    
-Input: 431421212462
+Input: __431421212462__
 
 __Output__:
 
@@ -86,8 +86,8 @@ __Output__:
 
 Enter 'e' to encrypt, 'd' to decrypt, 't' to display table, or 'q' to quit:
 
-Input: q
+Input: __q__
 
-Output: Process finished with exit code 0
+__Output__: Process finished with exit code 0
 
 *Program ends*
